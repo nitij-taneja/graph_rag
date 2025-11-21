@@ -1,5 +1,7 @@
 # Graph RAG 
 
+![DEMO](https://github.com/nitij-taneja/graph_rag/blob/main/graph-rag-demo-personal-microsoft-edge-2025-11-22-01-03-55_Jt76sPeg-VEED.gif)
+
 A knowledge graph application that combines document processing with AI-powered querying using Google Gemini LLM.
 
 Live Link : https://graph-rag-6ubr.onrender.com
