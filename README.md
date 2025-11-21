@@ -6,6 +6,8 @@ A knowledge graph application that combines document processing with AI-powered 
 
 Live Link : https://graph-rag-6ubr.onrender.com
 
+Video : https://drive.google.com/file/d/1PD9bEXKhD5CPxj3PrWnUzIqrwSojhQa_/view?usp=sharing
+
 ## Features
 
 - **Document Upload**: Upload TXT, PDF, and Markdown files
