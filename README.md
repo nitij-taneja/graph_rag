@@ -2,6 +2,8 @@
 
 A knowledge graph application that combines document processing with AI-powered querying using Google Gemini LLM.
 
+Live Link : https://graph-rag-6ubr.onrender.com
+
 ## Features
 
 - **Document Upload**: Upload TXT, PDF, and Markdown files
